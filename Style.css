@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&family=Kode+Mono:wght@400..700&family=Rubik+Microbe&family=Rubik+Wet+Paint&display=swap');
+
+body{
+    background-color:  rgb(178, 196, 146);
+   
+}
+
+img{
+    border-radius: 50%;
+    position: relative;
+    left: 607px;
+}
+
+h1{
+    text-align: center;
+    background-color: darkgoldenrod;
+    font-family: "Rubik Wet Paint", system-ui;
+  
+}
+
+h1:hover{
+    color: brown;
+}
+h2{
+    text-align: right;
+    background-color: rgb(92, 175, 92);
+  text-decoration: underline;
+  font-family: "Give You Glory", cursive;
+} 
+h4{
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+ul{
+    text-decoration: line-through;
+    text-transform: capitalize;
+    font-family: "Give You Glory", cursive;
+}
+
